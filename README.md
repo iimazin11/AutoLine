@@ -7,13 +7,12 @@ This is a **auto-line** project from [Quatro Studio](https://discord.gg/qs1)
 <br>
 **Developer:** [mz_n](https://discord.com/user/618078478755037185)
 
-<h1>How I Can Use</h1>
+## How I Can Use
 **To install packages**
-<br>
-
-<br>
+```bash
+npm i
+```
 after installing
-<br>
 >>> Go to ./bot.config.mjs and put your token, server id, channels, line image link.
 
 ## Support
