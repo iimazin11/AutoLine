@@ -8,7 +8,7 @@ This is a **auto-line** project from [Quatro Studio](https://discord.gg/qs1)
 **Developer:** [mz_n](https://discord.com/user/618078478755037185)
 
 <h1>How I Can Use</h1>
-To install **packages**:
+**To install packages**:
 <br>
 
 <br>
