@@ -9,10 +9,13 @@ This is a **auto-line** project from [Quatro Studio](https://discord.gg/qs1)
 
 <h1>How I Can Use</h1>
 To install **packages**:
+<br>
 ```bash
 npm i
 ```
+<br>
 after installing
+<br>
 >>> Go to ./bot.config.mjs and put your token, server id, channels, line image link.
 
 ## Support
