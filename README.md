@@ -10,11 +10,7 @@ This is a **auto-line** project from [Quatro Studio](https://discord.gg/qs1)
 <h1>How I Can Use</h1>
 To install **packages**:
 <br>
-```bash
-<br>
-npm i
-<br>
-```
+
 <br>
 after installing
 <br>
